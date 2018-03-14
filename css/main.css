@@ -22,10 +22,6 @@ body {
     color: #ffffff;
 }
 
-main {
-
-}
-
 header {
     text-align: center;
     -webkit-box-shadow: 0 6px 10px 0 rgba(255, 255, 255, 1);
@@ -174,7 +170,7 @@ ul {
     border-color: #ffffff;
 }
 
-.box:before {
+.box::before {
     content: "";
     display: block;
     padding-top: 100%;
@@ -227,7 +223,7 @@ ul {
     border-color: #ffffff;
 }
 
-.box2:before {
+.box2::before {
     content: "";
     display: block;
     padding-top: 100%;
