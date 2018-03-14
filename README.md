@@ -1,9 +1,9 @@
 # Final Part 2
 * Megan Maple
 * March 14th, 2018
-* [Github Repo](https://github.com/maplemegan333/project_transformation_maple_megan.git)
-* [Web Hosting](http://makeitmomentous.live/project_transformation_maple_megan/)
-* [W3C Validator](https://validator.w3.org/nu/?doc=http%3A%2F%2Fmakeitmomentous.live%2Fproject_transformation_maple_megan%2F)
+* [Github Repo](https://github.com/maplemegan333/project_final2_maple_megan.git)
+* [Web Hosting](http://makeitmomentous.live/project_final2_maple_megan/)
+* [W3C Validator](https://validator.w3.org/unicorn/check?ucn_uri=makeitmomentous.live%2Fproject_final2_maple_megan%2F&ucn_task=conformance#)
 * [HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fmakeitmomentous.live%2Fproject_transformation_maple_megan%2F)
 
 ## Resources
