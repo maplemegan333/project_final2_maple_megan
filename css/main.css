@@ -289,3 +289,32 @@ aside ul li {
     color: #87b60c;
     font-size: 3em;
 }
+
+@media (min-width: 580px) {
+
+    header {
+        text-align: left;
+        max-height: 200px;
+    }
+
+    header img {
+        display: inline-block;
+        width: 150px;
+        margin-left: 33px;
+        padding-top: 33px;
+    }
+}
+@media (min-width: 800px) {
+
+    .color article {
+        width: calc((200%/3) - 1em);
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .color aside {
+        width: calc((100%/3) - 1em);
+        display: inline-block;
+        vertical-align: top;
+    }
+}
