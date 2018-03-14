@@ -22,6 +22,10 @@ body {
     color: #ffffff;
 }
 
+main {
+
+}
+
 header {
     text-align: center;
     -webkit-box-shadow: 0 6px 10px 0 rgba(255, 255, 255, 1);
@@ -317,4 +321,9 @@ aside ul li {
         display: inline-block;
         vertical-align: top;
     }
+}
+
+.together {
+    max-width: 950px;
+    margin: auto;
 }
